@@ -4,112 +4,86 @@
   box-sizing: border-box;
 }
 
-.banner {
-  display: flex;
-  list-style: none;
-  margin: auto;
-  background-color: rgb(37, 39, 43);
-}
-
 body {
   background: rgb(37, 39, 43);
   position: relative;
-  list-style: none;
-  font-family: Tahoma;
-  font-size: 17px;
 }
 
-.search-bar {
-  flex: 1;
-  display: block;
-  margin-left: 66px;
+.banner {
+  background: rgb(33, 34, 36);
+  height: 55px;
+  list-style: none;
+}
+
+.banner nav ul input {
   position: absolute;
-  top: 12px;
-  padding: 6px;
-  padding-right: 17px;
-  border-radius: 10px;
+  display: block;
+  left: 62px;
+  top: 8px;
   background: rgb(58, 59, 60);
-  border: 1px solid rgb(58, 59, 60);
+  border-radius: 19px;
+  padding: 9px;
+  padding-right: 29px;
+  border: 1px solid rgb(33, 34, 36);
+  font-size: 15px;
 }
 
-ul li a img {
-  flex: 1;
+.search-icon {
+  position: absolute;
+  left: 71px;
+  top: 18px;
+  width: 22px;
 }
 
-li {
+.home-logo {
+  position: absolute;
   list-style: none;
+  left: 24rem;
+  top: 5px;
+  width: 25px;
 }
 
-.flag-image {
-  display: flex;
-}
-
-.text-right-flag {
-  display: block;
-  flex: 1;
+.watch-logo {
   position: absolute;
-  left: 26px;
-  bottom: 6px;
-  text-decoration: none;
-  color: #5f5f79;
+  list-style: none;
+  left: 31rem;
+  top: 11px;
+  width: 25px;
 }
 
-.friend-image {
-  display: block;
-  flex: 1;
+.marketplace-logo {
   position: absolute;
+  list-style: none;
+  left: 38rem;
+  top: 8.5px;
 }
 
-.down-header {
+.group-logo {
+  position: absolute;
+  list-style: none;
+  left: 46rem;
+  top: 11px;
+}
+
+.gaming-logo {
+  position: absolute;
+  list-style: none;
+  left: 54rem;
+  top: 11px;
+}
+
+.hr-down-header {
   border: 1px solid rgb(58, 59, 60);
 }
 
-.text-right-friends {
-  display: block;
-  flex: 1;
+.create-elements {
   position: absolute;
-  top: 3.5px;
-  left: 26px;
+  list-style: none;
   text-decoration: none;
-  color: #5f5f79;
-}
-
-.group-image {
-  position: absolute;
-  bottom: -76px;
-}
-
-.text-right-group {
-  position: absolute;
-  left: 26px;
-  top: 4.6px;
-  text-decoration: none;
-  color: #5f5f79;
-}
-
-.down-line {
-  position: absolute;
-  width: 470%;
-  top: 45px;
-  border: 1px solid rgb(58, 59, 60);
-}
-
-.shortcuts {
-  position: absolute;
-  bottom: -125%;
-  padding-left: 14px;
-  color: #5f5f79;
-}
-
-.epichardware-logo {
-  position: absolute;
-  bottom: -228%;
-}
-
-.text-right-epichardware {
-  position: relative;
-  left: 31px;
-  bottom: 21px;
-  text-decoration: none;
-  color: #5f5f79;
+  color: #e6e6e6;
+  left: 35rem;
+  top: 9px;
+  font-size: 20px;
+  background: rgb(58, 59, 60);
+  border-radius: 15px;
 }
