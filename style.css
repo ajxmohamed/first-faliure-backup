@@ -277,9 +277,23 @@ profile-anc {
   padding: 9px;
   padding-right: 12rem;
   border-radius: 19px;
-  border: 1px solid rgb(58, 59, 60);
+  border: 1px solid#121212;
   right: 38%;
-  top: 22%;
+  top: 18.8rem;
+  color: #e6e6e6;
+}
+
+.background-spacing-behind-story {
+  position: absolute;
+  border-radius: 8px;
+  left: 32%;
+  background: rgb(58, 59, 60);
+  width: 520px;
+  height: 100px;
+}
+
+.background-spacing-behind-story hr {
+  border: 1px solid #121212;
 }
 
 .story img {
@@ -313,4 +327,43 @@ profile-anc {
   position: absolute;
   left: 33.3%;
   bottom: 24%;
+}
+
+.live {
+  position: absolute;
+  left: 30px;
+  bottom: 8px;
+}
+
+.live-text {
+  position: absolute;
+  color: #e6e6e6;
+  left: 65px;
+  bottom: 13px;
+}
+
+.photo-videos {
+  position: absolute;
+  left: 190px;
+  bottom: 6.5px;
+}
+
+.photo-videos-text {
+  position: absolute;
+  color: #e6e6e6;
+  left: 220px;
+  bottom: 15px;
+}
+
+.feeling {
+  position: absolute;
+  left: 345px;
+  bottom: 6.5px;
+}
+
+.feeling-text {
+  position: absolute;
+  color: #e6e6e6;
+  left: 385px;
+  bottom: 16px;
 }
