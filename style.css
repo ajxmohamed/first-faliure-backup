@@ -270,3 +270,47 @@ profile-anc {
   top: 43rem;
   left: 29px;
 }
+
+.input-comment {
+  position: absolute;
+  background-color: rgb(58, 59, 60);
+  padding: 9px;
+  padding-right: 12rem;
+  border-radius: 19px;
+  border: 1px solid rgb(58, 59, 60);
+  right: 38%;
+  top: 22%;
+}
+
+.story img {
+  position: absolute;
+  left: 31%;
+  bottom: 10%;
+  border-radius: 16px;
+}
+
+.story span {
+  position: absolute;
+  left: 31%;
+  bottom: 10%;
+  color: #e6e6e6;
+  background: rgb(58, 59, 60);
+  height: 60px;
+  width: 110px;
+  border-radius: 4px;
+}
+
+.story h3 {
+  position: absolute;
+  color: #e6e6e6;
+  left: 33%;
+  bottom: 13.6%;
+  font-size: 16px;
+  text-align: center;
+}
+
+.plus {
+  position: absolute;
+  left: 33.3%;
+  bottom: 24%;
+}
