@@ -367,3 +367,89 @@ profile-anc {
   left: 385px;
   bottom: 16px;
 }
+
+.comment-spacing {
+  position: absolute;
+  width: 610px;
+  height: 730px;
+  right: 30%;
+  bottom: -320%;
+  background: rgb(58, 59, 60);
+}
+
+.person-name {
+  position: relative;
+  bottom: 90.5%;
+  left: 10%;
+  color: #e6e6e6;
+  text-decoration: none;
+}
+
+.more-photo {
+  position: relative;
+  left: 85%;
+  bottom: 2%;
+}
+
+.down-main-photo-comment {
+  position: relative;
+  border: 1px solid rgb(37, 39, 43);
+  bottom: 0.8%;
+}
+
+.comments-left-post {
+  position: absolute;
+  left: 85%;
+  bottom: 7%;
+  color: #e6e6e6;
+}
+
+.down-comment-text {
+  position: relative;
+  border: 1px solid rgb(37, 39, 43);
+  bottom: 2%;
+}
+
+.like-text {
+  position: relative;
+  left: 16%;
+  color: #e6e6e6;
+}
+
+.like-image {
+  position: absolute;
+  bottom: 1.2%;
+  left: 12%;
+}
+
+.comment-image {
+  position: relative;
+  left: 17rem;
+  bottom: -2.7rem;
+}
+
+.comment-text {
+  position: relative;
+  color: #e6e6e6;
+  left: 19rem;
+  bottom: 1.4rem;
+}
+
+.share {
+  position: absolute;
+  left: 30rem;
+  bottom: 1rem;
+}
+
+.share-text {
+  position: absolute;
+  left: 32rem;
+  color: #e6e6e6;
+  bottom: 1.2rem;
+}
+
+.line-down-comment {
+  position: relative;
+  border: 1px solid rgb(33, 34, 36);
+  bottom: -5.2rem;
+}
