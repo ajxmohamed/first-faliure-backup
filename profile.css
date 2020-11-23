@@ -402,3 +402,71 @@ b:hover {
   height: 35px;
   border-radius: 6px;
 }
+
+.photos-organized {
+  position: absolute;
+}
+
+.background-photos {
+  position: absolute;
+  top: 59rem;
+  left: 14.5rem;
+  background: rgb(28, 30, 33);
+  width: 360px;
+  height: 300px;
+  border-radius: 9px;
+}
+
+.photo-text {
+  position: absolute;
+  color: #e6e6e6;
+  top: 60.2rem;
+  left: 15.5rem;
+  text-decoration: none;
+}
+
+.photo-text:hover {
+  text-decoration: underline;
+}
+
+.see-photos-text {
+  position: relative;
+  top: 60.2rem;
+  left: 30rem;
+  color: rgb(46, 137, 255);
+  text-decoration: none;
+}
+
+.friends-space {
+  position: relative;
+}
+
+.background-friends {
+  position: absolute;
+  top: 79rem;
+  left: 14.5rem;
+  background: rgb(28, 30, 33);
+  width: 360px;
+  height: 300px;
+  border-radius: 9px;
+}
+
+.friends-text {
+  position: absolute;
+  color: #e6e6e6;
+  top: 80rem;
+  left: 15.5rem;
+  text-decoration: none;
+}
+
+.friends-text:hover {
+  text-decoration: underline;
+}
+
+.see-friends-text {
+  position: relative;
+  top: 80rem;
+  left: 30rem;
+  color: rgb(46, 137, 255);
+  text-decoration: none;
+}
