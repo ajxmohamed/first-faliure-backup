@@ -470,3 +470,207 @@ b:hover {
   color: rgb(46, 137, 255);
   text-decoration: none;
 }
+
+.backgroundof-creator {
+  position: absolute;
+  top: 42.5rem;
+  left: 40rem;
+  background-color: rgb(28, 30, 33);
+  width: 500px;
+  height: 120px;
+  border-radius: 6px;
+  color: #e6e6e6;
+}
+
+.input-profile {
+  position: absolute;
+  top: 43.4rem;
+  left: 40.5rem;
+}
+
+.under-input {
+  position: relative;
+  border: 1px solid rgb(58, 59, 60);
+  top: 40rem;
+  left: 40rem;
+  width: 31rem;
+}
+
+.comment-creator {
+  position: relative;
+  background: rgb(58, 59, 60);
+  border: 1px solid black;
+  padding: 10.2px;
+  padding-right: 14rem;
+  border-radius: 22px;
+  top: 39.2rem;
+  left: 44rem;
+}
+
+.livevideo {
+  position: absolute;
+  top: 47.4rem;
+  left: 42rem;
+}
+
+.right-livevideo {
+  position: absolute;
+  top: 47.6rem;
+  left: 45rem;
+  color: #e6e6e6;
+  text-decoration: none;
+}
+
+.photo_videos {
+  position: absolute;
+  top: 47.4rem;
+  left: 53rem;
+}
+
+.right-photo_videos {
+  position: absolute;
+  top: 47.8rem;
+  left: 55rem;
+  color: #e6e6e6;
+  text-decoration: none;
+}
+
+.events {
+  position: absolute;
+  top: 47.5rem;
+  left: 63rem;
+}
+
+.right-live-events {
+  position: absolute;
+  top: 47.8rem;
+  left: 65.2rem;
+  color: #e6e6e6;
+}
+
+.background-comment {
+  position: absolute;
+  width: 500px;
+  height: 240px;
+  background: rgb(28, 30, 33);
+  top: 51.5rem;
+  left: 40rem;
+  border-radius: 9px;
+}
+
+.profile-comment {
+  position: absolute;
+  top: 52rem;
+  left: 40.5rem;
+}
+
+.person-owner-post {
+  position: absolute;
+  color: #e6e6e6;
+  top: 52.4rem;
+  left: 43.8rem;
+}
+
+.person-owner-post:hover {
+  text-decoration: underline;
+}
+
+.index-of-comment {
+  position: absolute;
+  color: #e6e6e6;
+  top: 56.5rem;
+  left: 41rem;
+  font-weight: normal;
+}
+
+.seemore-comment {
+  position: absolute;
+  top: 53rem;
+  left: 68rem;
+}
+
+.down-index {
+  position: absolute;
+  border: 1px solid rgb(58, 59, 60);
+  top: 59rem;
+  left: 41rem;
+  width: 32%;
+}
+
+.down-index2 {
+  position: absolute;
+  border: 1px solid rgb(58, 59, 60);
+  top: 62rem;
+  left: 41rem;
+  width: 32%;
+}
+
+.like-comment {
+  position: absolute;
+  top: 60rem;
+  left: 44rem;
+}
+
+.right-like-text {
+  position: absolute;
+  top: 60.2rem;
+  left: 45.8rem;
+  color: #e6e6e6;
+}
+
+.comment-photo {
+  position: absolute;
+  top: 60rem;
+  left: 53rem;
+}
+
+.right-comment-text {
+  position: absolute;
+  top: 60.2rem;
+  left: 55rem;
+  color: #e6e6e6;
+}
+
+.share-inside-comment {
+  position: absolute;
+  top: 60.2rem;
+  left: 63rem;
+  color: #e6e6e6;
+}
+
+.text-right-share {
+  position: absolute;
+  top: 60.3rem;
+  left: 65rem;
+  color: #e6e6e6;
+}
+
+.time-ago {
+  position: absolute;
+  color: gray;
+  top: 53.5rem;
+  left: 43.8rem;
+  font-size: 12px;
+}
+
+time-ago:hover {
+  text-decoration: underline;
+}
+
+.write-comment {
+  position: absolute;
+  background: rgb(58, 59, 60);
+  border-radius: 19px;
+  padding: 9px;
+  padding-right: 9rem;
+  border: 1px solid rgb(33, 34, 36);
+  font-size: 15px;
+  top: 63.5rem;
+  left: 43rem;
+}
+
+.right-write {
+  position: absolute;
+  top: 63rem;
+  left: 40rem;
+}
